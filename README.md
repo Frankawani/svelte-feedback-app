@@ -1,6 +1,6 @@
 # Svelte Feedback App
 
-This us my first Svelte project
+This is my first Svelte project
 
 ```bash
 
